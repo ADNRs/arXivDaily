@@ -14,14 +14,6 @@ beijing_timezone = pytz.timezone('Asia/Shanghai')
 
 # get current beijing time date in the format of "2021-08-01"
 current_date = datetime.now(beijing_timezone).strftime("%Y-%m-%d")
-# get last update date from README.md
-with open("README.md", "r") as f:
-    while True:
-        line = f.readline()
-        if "Last update:" in line: break
-    last_update_date = line.split(": ")[1].strip()
-    # if last_update_date == current_date:
-        # sys.exit("Already updated today!")
 
 base = ["LLVM", "Compiler", "Optimization"]
 base = [f"abs:\"{keyword}\"" for keyword in base]
