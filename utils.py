@@ -54,9 +54,9 @@ def filter_tags(papers: List[Dict[str, str]], target_fileds: List[str]=["cs", "s
                 break
     return results
 
-def get_daily_papers_by_keyword_with_retries(keyword: str, column_names: List[str], max_result: int, link: str = "OR", retries: int = 6) -> List[Dict[str, str]]:
+def get_daily_papers_by_keyword_with_retries(rule: str, column_names: List[str], max_result: int, retries: int = 6) -> List[Dict[str, str]]:
     for _ in range(retries):
-        papers = get_daily_papers_by_keyword(keyword, column_names, max_result, link)
+        papers = get_daily_papers_by_keyword(rule, column_names, max_result)
         if len(papers) > 0: return papers
         else:
             print("Unexpected empty list, retrying...")
@@ -64,9 +64,9 @@ def get_daily_papers_by_keyword_with_retries(keyword: str, column_names: List[st
     # failed
     return None
 
-def get_daily_papers_by_keyword(keyword: str, column_names: List[str], max_result: int, link: str = "OR") -> List[Dict[str, str]]:
+def get_daily_papers_by_keyword(rule: str, column_names: List[str], max_result: int) -> List[Dict[str, str]]:
     # get papers
-    papers = request_paper_with_arXiv_api(keyword, max_result, link) # NOTE default columns: Title, Authors, Abstract, Link, Tags, Comment, Date
+    papers = request_paper_with_arXiv_api(rule, max_result) # NOTE default columns: Title, Authors, Abstract, Link, Tags, Comment, Date
     # NOTE filtering tags: only keep the papers in cs field
     # TODO filtering more
     papers = filter_tags(papers)
