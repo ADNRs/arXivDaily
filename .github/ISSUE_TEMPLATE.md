@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - February 06, 2025
+title: Latest 20 Papers - February 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Tensor Evolution: A framework for Fast Evaluation of Tensor Computations using Recurrences](http://arxiv.org/abs/2502.03402v1)** | 2025-02-05 |  |
 | **[ACPO: AI-Enabled Compiler Framework](http://arxiv.org/abs/2312.09982v4)** | 2025-01-14 | ACPO (12 pages) |
 | **[MimIR: An Extensible and Type-Safe Intermediate Representation for the DSL Age](http://arxiv.org/abs/2411.07443v2)** | 2024-11-20 | POPL'25 |
 | **[Examem: Low-Overhead Memory Instrumentation for Intelligent Memory Systems](http://arxiv.org/abs/2411.12583v1)** | 2024-11-16 | <details><summary>11 pa...</summary><p>11 pages + references, 13 figures</p></details> |
@@ -26,5 +27,4 @@ labels: documentation
 | **[AutoNumerics-Zero: Automated Discovery of State-of-the-Art Mathematical Functions](http://arxiv.org/abs/2312.08472v1)** | 2023-12-13 |  |
 | **[Facile: Fast, Accurate, and Interpretable Basic-Block Throughput Prediction](http://arxiv.org/abs/2310.13212v1)** | 2023-10-20 |  |
 | **[Large Language Models for Compiler Optimization](http://arxiv.org/abs/2309.07062v1)** | 2023-09-11 |  |
-| **[SparseOptimizer: Sparsify Language Models through Moreau-Yosida Regularization and Accelerate via Compiler Co-design](http://arxiv.org/abs/2306.15656v3)** | 2023-07-18 |  |
 
