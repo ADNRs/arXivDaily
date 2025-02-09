@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - February 07, 2025
+title: Latest 20 Papers - February 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Multi-level Compiler Backend for Accelerated Micro-kernels Targeting RISC-V ISA Extensions](http://arxiv.org/abs/2502.04063v1)** | 2025-02-06 |  |
 | **[Tensor Evolution: A framework for Fast Evaluation of Tensor Computations using Recurrences](http://arxiv.org/abs/2502.03402v1)** | 2025-02-05 |  |
 | **[ACPO: AI-Enabled Compiler Framework](http://arxiv.org/abs/2312.09982v4)** | 2025-01-14 | ACPO (12 pages) |
 | **[MimIR: An Extensible and Type-Safe Intermediate Representation for the DSL Age](http://arxiv.org/abs/2411.07443v2)** | 2024-11-20 | POPL'25 |
@@ -26,5 +27,4 @@ labels: documentation
 | **[Experiences Building an MLIR-based SYCL Compiler](http://arxiv.org/abs/2312.13170v1)** | 2023-12-20 | <details><summary>12 pa...</summary><p>12 pages, 3 figures To be published in International Symposium on Code Generation and Optimization (CGO) 2024</p></details> |
 | **[AutoNumerics-Zero: Automated Discovery of State-of-the-Art Mathematical Functions](http://arxiv.org/abs/2312.08472v1)** | 2023-12-13 |  |
 | **[Facile: Fast, Accurate, and Interpretable Basic-Block Throughput Prediction](http://arxiv.org/abs/2310.13212v1)** | 2023-10-20 |  |
-| **[Large Language Models for Compiler Optimization](http://arxiv.org/abs/2309.07062v1)** | 2023-09-11 |  |
 
