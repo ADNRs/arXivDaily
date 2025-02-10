@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - February 10, 2025
+title: Latest 20 Papers - February 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,8 +7,8 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Tensor Evolution: A Framework for Fast Evaluation of Tensor Computations using Recurrences](http://arxiv.org/abs/2502.03402v2)** | 2025-02-07 |  |
 | **[A Multi-level Compiler Backend for Accelerated Micro-kernels Targeting RISC-V ISA Extensions](http://arxiv.org/abs/2502.04063v1)** | 2025-02-06 |  |
-| **[Tensor Evolution: A framework for Fast Evaluation of Tensor Computations using Recurrences](http://arxiv.org/abs/2502.03402v1)** | 2025-02-05 |  |
 | **[ACPO: AI-Enabled Compiler Framework](http://arxiv.org/abs/2312.09982v4)** | 2025-01-14 | ACPO (12 pages) |
 | **[MimIR: An Extensible and Type-Safe Intermediate Representation for the DSL Age](http://arxiv.org/abs/2411.07443v2)** | 2024-11-20 | POPL'25 |
 | **[Examem: Low-Overhead Memory Instrumentation for Intelligent Memory Systems](http://arxiv.org/abs/2411.12583v1)** | 2024-11-16 | <details><summary>11 pa...</summary><p>11 pages + references, 13 figures</p></details> |
