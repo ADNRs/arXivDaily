@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - February 19, 2025
+title: Latest 20 Papers - February 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Comparing Unidirectional, Bidirectional, and Word2vec Models for Discovering Vulnerabilities in Compiled Lifted Code](http://arxiv.org/abs/2409.17513v2)** | 2025-02-18 | 6 pages, 2 figures |
 | **[Tensor Evolution: A Framework for Fast Evaluation of Tensor Computations using Recurrences](http://arxiv.org/abs/2502.03402v2)** | 2025-02-07 |  |
 | **[A Multi-level Compiler Backend for Accelerated Micro-kernels Targeting RISC-V ISA Extensions](http://arxiv.org/abs/2502.04063v1)** | 2025-02-06 |  |
 | **[ACPO: AI-Enabled Compiler Framework](http://arxiv.org/abs/2312.09982v4)** | 2025-01-14 | ACPO (12 pages) |
@@ -14,7 +15,6 @@ labels: documentation
 | **[Examem: Low-Overhead Memory Instrumentation for Intelligent Memory Systems](http://arxiv.org/abs/2411.12583v1)** | 2024-11-16 | <details><summary>11 pa...</summary><p>11 pages + references, 13 figures</p></details> |
 | **[Beyond the Phase Ordering Problem: Finding the Globally Optimal Code w.r.t. Optimization Phases](http://arxiv.org/abs/2410.03120v4)** | 2024-10-22 |  |
 | **[Bi-Directional Transformers vs. word2vec: Discovering Vulnerabilities in Lifted Compiled Code](http://arxiv.org/abs/2405.20611v3)** | 2024-09-27 | <details><summary>Updat...</summary><p>Updated with improvements</p></details> |
-| **[Comparing Unidirectional, Bidirectional, and Word2vec Models for Discovering Vulnerabilities in Compiled Lifted Code](http://arxiv.org/abs/2409.17513v1)** | 2024-09-26 | 6 pages, 2 figures |
 | **[ShadowBound: Efficient Heap Memory Protection Through Advanced Metadata Management and Customized Compiler Optimization](http://arxiv.org/abs/2406.02023v2)** | 2024-09-23 | <details><summary>Accep...</summary><p>Accepted by USENIX Security 2024</p></details> |
 | **[Minotaur: A SIMD-Oriented Synthesizing Superoptimizer](http://arxiv.org/abs/2306.00229v3)** | 2024-09-02 | <details><summary>to ap...</summary><p>to appear in OOPSLA'24</p></details> |
 | **[CompilerDream: Learning a Compiler World Model for General Code Optimization](http://arxiv.org/abs/2404.16077v2)** | 2024-08-21 |  |
