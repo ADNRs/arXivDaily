@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - March 26, 2025
+title: Latest 20 Papers - March 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Versatile Cross-platform Compilation Toolchain for Schrödinger-style Quantum Circuit Simulation](http://arxiv.org/abs/2503.19894v1)** | 2025-03-25 | To appear in DAC 25 |
 | **[CleanStack: A New Dual-Stack for Defending Against Stack-Based Memory Corruption Attacks](http://arxiv.org/abs/2503.16950v1)** | 2025-03-21 |  |
 | **[Comparing Unidirectional, Bidirectional, and Word2vec Models for Discovering Vulnerabilities in Compiled Lifted Code](http://arxiv.org/abs/2409.17513v2)** | 2025-02-18 | 6 pages, 2 figures |
 | **[Tensor Evolution: A Framework for Fast Evaluation of Tensor Computations using Recurrences](http://arxiv.org/abs/2502.03402v2)** | 2025-02-07 |  |
@@ -26,5 +27,4 @@ labels: documentation
 | **[Compiler generated feedback for Large Language Models](http://arxiv.org/abs/2403.14714v1)** | 2024-03-18 |  |
 | **[UBfuzz: Finding Bugs in Sanitizer Implementations](http://arxiv.org/abs/2401.04538v1)** | 2024-01-09 | <details><summary>accep...</summary><p>accepted to ASPLOS 2024</p></details> |
 | **[Experiences Building an MLIR-based SYCL Compiler](http://arxiv.org/abs/2312.13170v1)** | 2023-12-20 | <details><summary>12 pa...</summary><p>12 pages, 3 figures To be published in International Symposium on Code Generation and Optimization (CGO) 2024</p></details> |
-| **[AutoNumerics-Zero: Automated Discovery of State-of-the-Art Mathematical Functions](http://arxiv.org/abs/2312.08472v1)** | 2023-12-13 |  |
 
