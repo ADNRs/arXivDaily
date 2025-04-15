@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - April 15, 2025
+title: Latest 20 Papers - April 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Optimizing FDTD Solvers for Electromagnetics: A Compiler-Guided Approach with High-Level Tensor Abstractions](http://arxiv.org/abs/2504.09118v1)** | 2025-04-12 |  |
 | **[Towards Source Mapping for Zero-Knowledge Smart Contracts: Design and Preliminary Evaluation](http://arxiv.org/abs/2504.04322v2)** | 2025-04-08 |  |
 | **[Compiler Optimization Testing Based on Optimization-Guided Equivalence Transformations](http://arxiv.org/abs/2504.04321v1)** | 2025-04-06 | <details><summary>Accep...</summary><p>Accepted by FSE-IVR 2025</p></details> |
 | **[Versatile Cross-platform Compilation Toolchain for Schrödinger-style Quantum Circuit Simulation](http://arxiv.org/abs/2503.19894v1)** | 2025-03-25 | To appear in DAC 25 |
@@ -26,5 +27,4 @@ labels: documentation
 | **[Meta Large Language Model Compiler: Foundation Models of Compiler Optimization](http://arxiv.org/abs/2407.02524v1)** | 2024-06-27 |  |
 | **[LLM-Vectorizer: LLM-based Verified Loop Vectorizer](http://arxiv.org/abs/2406.04693v1)** | 2024-06-07 |  |
 | **[Forklift: An Extensible Neural Lifter](http://arxiv.org/abs/2404.16041v1)** | 2024-04-01 |  |
-| **[Compiler generated feedback for Large Language Models](http://arxiv.org/abs/2403.14714v1)** | 2024-03-18 |  |
 
