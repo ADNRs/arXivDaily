@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - April 23, 2025
+title: Latest 20 Papers - April 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
