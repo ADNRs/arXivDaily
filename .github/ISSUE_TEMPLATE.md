@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - May 05, 2025
+title: Latest 20 Papers - May 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Towards Source Mapping for Zero-Knowledge Smart Contracts: Design and Preliminary Evaluation](http://arxiv.org/abs/2504.04322v3)** | 2025-05-01 |  |
+| **[Towards Source Mapping for Zero-Knowledge Smart Contracts: Design and Preliminary Evaluation](http://arxiv.org/abs/2504.04322v4)** | 2025-05-02 |  |
 | **[Optimizing FDTD Solvers for Electromagnetics: A Compiler-Guided Approach with High-Level Tensor Abstractions](http://arxiv.org/abs/2504.09118v1)** | 2025-04-12 |  |
 | **[Compiler Optimization Testing Based on Optimization-Guided Equivalence Transformations](http://arxiv.org/abs/2504.04321v1)** | 2025-04-06 | <details><summary>Accep...</summary><p>Accepted by FSE-IVR 2025</p></details> |
 | **[Versatile Cross-platform Compilation Toolchain for Schrödinger-style Quantum Circuit Simulation](http://arxiv.org/abs/2503.19894v1)** | 2025-03-25 | To appear in DAC 25 |
