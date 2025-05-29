@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - May 29, 2025
+title: Latest 20 Papers - May 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TPDE: A Fast Adaptable Compiler Back-End Framework](http://arxiv.org/abs/2505.22610v1)** | 2025-05-28 | 23 pages, 10 figures |
 | **[eqsat: An Equality Saturation Dialect for Non-destructive Rewriting](http://arxiv.org/abs/2505.09363v2)** | 2025-05-15 | <details><summary>Accep...</summary><p>Accepted as workshop paper at the EGRAPHS 2025 workshop</p></details> |
 | **[Towards Source Mapping for Zero-Knowledge Smart Contracts: Design and Preliminary Evaluation](http://arxiv.org/abs/2504.04322v4)** | 2025-05-02 |  |
 | **[Optimizing FDTD Solvers for Electromagnetics: A Compiler-Guided Approach with High-Level Tensor Abstractions](http://arxiv.org/abs/2504.09118v1)** | 2025-04-12 |  |
@@ -26,5 +27,4 @@ labels: documentation
 | **[CompilerDream: Learning a Compiler World Model for General Code Optimization](http://arxiv.org/abs/2404.16077v2)** | 2024-08-21 |  |
 | **[MIREncoder: Multi-modal IR-based Pretrained Embeddings for Performance Optimizations](http://arxiv.org/abs/2407.02238v1)** | 2024-07-02 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 9 tables, PACT '24 conference</p></details> |
 | **[Meta Large Language Model Compiler: Foundation Models of Compiler Optimization](http://arxiv.org/abs/2407.02524v1)** | 2024-06-27 |  |
-| **[LLM-Vectorizer: LLM-based Verified Loop Vectorizer](http://arxiv.org/abs/2406.04693v1)** | 2024-06-07 |  |
 
