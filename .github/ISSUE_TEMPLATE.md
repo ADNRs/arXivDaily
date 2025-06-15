@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - June 13, 2025
+title: Latest 20 Papers - June 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CompilerDream: Learning a Compiler World Model for General Code Optimization](http://arxiv.org/abs/2404.16077v3)** | 2025-06-12 | <details><summary>KDD 2...</summary><p>KDD 2025 camera-ready version with extended appendix. Code is available at https://github.com/thuml/CompilerDream</p></details> |
 | **[Tech-ASan: Two-stage check for Address Sanitizer](http://arxiv.org/abs/2506.05022v1)** | 2025-06-05 |  |
 | **[Improving compiler support for SIMD offload using Arm Streaming SVE](http://arxiv.org/abs/2506.02233v1)** | 2025-06-02 |  |
 | **[TPDE: A Fast Adaptable Compiler Back-End Framework](http://arxiv.org/abs/2505.22610v1)** | 2025-05-28 | 23 pages, 10 figures |
@@ -26,5 +27,4 @@ labels: documentation
 | **[Bi-Directional Transformers vs. word2vec: Discovering Vulnerabilities in Lifted Compiled Code](http://arxiv.org/abs/2405.20611v3)** | 2024-09-27 | <details><summary>Updat...</summary><p>Updated with improvements</p></details> |
 | **[ShadowBound: Efficient Heap Memory Protection Through Advanced Metadata Management and Customized Compiler Optimization](http://arxiv.org/abs/2406.02023v2)** | 2024-09-23 | <details><summary>Accep...</summary><p>Accepted by USENIX Security 2024</p></details> |
 | **[Minotaur: A SIMD-Oriented Synthesizing Superoptimizer](http://arxiv.org/abs/2306.00229v3)** | 2024-09-02 | <details><summary>to ap...</summary><p>to appear in OOPSLA'24</p></details> |
-| **[CompilerDream: Learning a Compiler World Model for General Code Optimization](http://arxiv.org/abs/2404.16077v2)** | 2024-08-21 |  |
 
