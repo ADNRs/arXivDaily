@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - June 18, 2025
+title: Latest 20 Papers - June 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,8 +7,8 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Tech-ASan: Two-stage check for Address Sanitizer](http://arxiv.org/abs/2506.05022v2)** | 2025-06-18 |  |
 | **[CompilerDream: Learning a Compiler World Model for General Code Optimization](http://arxiv.org/abs/2404.16077v3)** | 2025-06-12 | <details><summary>KDD 2...</summary><p>KDD 2025 camera-ready version with extended appendix. Code is available at https://github.com/thuml/CompilerDream</p></details> |
-| **[Tech-ASan: Two-stage check for Address Sanitizer](http://arxiv.org/abs/2506.05022v1)** | 2025-06-05 |  |
 | **[Improving compiler support for SIMD offload using Arm Streaming SVE](http://arxiv.org/abs/2506.02233v1)** | 2025-06-02 |  |
 | **[TPDE: A Fast Adaptable Compiler Back-End Framework](http://arxiv.org/abs/2505.22610v1)** | 2025-05-28 | 23 pages, 10 figures |
 | **[eqsat: An Equality Saturation Dialect for Non-destructive Rewriting](http://arxiv.org/abs/2505.09363v2)** | 2025-05-15 | <details><summary>Accep...</summary><p>Accepted as workshop paper at the EGRAPHS 2025 workshop</p></details> |
