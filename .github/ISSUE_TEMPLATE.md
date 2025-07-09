@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - July 09, 2025
+title: Latest 20 Papers - July 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fun with flags: How Compilers Break and Fix Constant-Time Code](http://arxiv.org/abs/2507.06112v1)** | 2025-07-08 | 11 pages |
 | **[RVISmith: Fuzzing Compilers for RVV Intrinsics](http://arxiv.org/abs/2507.03773v1)** | 2025-07-04 | <details><summary>To ap...</summary><p>To appear in ACM CCS 2025</p></details> |
 | **[WAMI: Compilation to WebAssembly through MLIR without Losing Abstraction](http://arxiv.org/abs/2506.16048v1)** | 2025-06-19 |  |
 | **[Tech-ASan: Two-stage check for Address Sanitizer](http://arxiv.org/abs/2506.05022v2)** | 2025-06-18 |  |
@@ -26,5 +27,4 @@ labels: documentation
 | **[MimIR: An Extensible and Type-Safe Intermediate Representation for the DSL Age](http://arxiv.org/abs/2411.07443v2)** | 2024-11-20 | POPL'25 |
 | **[Examem: Low-Overhead Memory Instrumentation for Intelligent Memory Systems](http://arxiv.org/abs/2411.12583v1)** | 2024-11-16 | <details><summary>11 pa...</summary><p>11 pages + references, 13 figures</p></details> |
 | **[Beyond the Phase Ordering Problem: Finding the Globally Optimal Code w.r.t. Optimization Phases](http://arxiv.org/abs/2410.03120v4)** | 2024-10-22 |  |
-| **[Bi-Directional Transformers vs. word2vec: Discovering Vulnerabilities in Lifted Compiled Code](http://arxiv.org/abs/2405.20611v3)** | 2024-09-27 | <details><summary>Updat...</summary><p>Updated with improvements</p></details> |
 
