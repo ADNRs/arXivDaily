@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - July 23, 2025
+title: Latest 20 Papers - July 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Profiling to Optimization: Unveiling the Profile Guided Optimization](http://arxiv.org/abs/2507.16649v1)** | 2025-07-22 |  |
 | **[Fun with flags: How Compilers Break and Fix Constant-Time Code](http://arxiv.org/abs/2507.06112v1)** | 2025-07-08 | 11 pages |
 | **[RVISmith: Fuzzing Compilers for RVV Intrinsics](http://arxiv.org/abs/2507.03773v1)** | 2025-07-04 | <details><summary>To ap...</summary><p>To appear in ACM CCS 2025</p></details> |
 | **[WAMI: Compilation to WebAssembly through MLIR without Losing Abstraction](http://arxiv.org/abs/2506.16048v1)** | 2025-06-19 |  |
@@ -26,5 +27,4 @@ labels: documentation
 | **[ACPO: AI-Enabled Compiler Framework](http://arxiv.org/abs/2312.09982v4)** | 2025-01-14 | ACPO (12 pages) |
 | **[MimIR: An Extensible and Type-Safe Intermediate Representation for the DSL Age](http://arxiv.org/abs/2411.07443v2)** | 2024-11-20 | POPL'25 |
 | **[Examem: Low-Overhead Memory Instrumentation for Intelligent Memory Systems](http://arxiv.org/abs/2411.12583v1)** | 2024-11-16 | <details><summary>11 pa...</summary><p>11 pages + references, 13 figures</p></details> |
-| **[Beyond the Phase Ordering Problem: Finding the Globally Optimal Code w.r.t. Optimization Phases](http://arxiv.org/abs/2410.03120v4)** | 2024-10-22 |  |
 
