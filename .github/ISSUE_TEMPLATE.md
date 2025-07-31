@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - July 31, 2025
+title: Latest 20 Papers - August 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dissecting RISC-V Performance: Practical PMU Profiling and Hardware-Agnostic Roofline Analysis on Emerging Platforms](http://arxiv.org/abs/2507.22451v1)** | 2025-07-30 |  |
 | **[From Profiling to Optimization: Unveiling the Profile Guided Optimization](http://arxiv.org/abs/2507.16649v1)** | 2025-07-22 |  |
 | **[Fun with flags: How Compilers Break and Fix Constant-Time Code](http://arxiv.org/abs/2507.06112v1)** | 2025-07-08 | 11 pages |
 | **[RVISmith: Fuzzing Compilers for RVV Intrinsics](http://arxiv.org/abs/2507.03773v1)** | 2025-07-04 | <details><summary>To ap...</summary><p>To appear in ACM CCS 2025</p></details> |
@@ -26,5 +27,4 @@ labels: documentation
 | **[A Multi-level Compiler Backend for Accelerated Micro-kernels Targeting RISC-V ISA Extensions](http://arxiv.org/abs/2502.04063v1)** | 2025-02-06 |  |
 | **[ACPO: AI-Enabled Compiler Framework](http://arxiv.org/abs/2312.09982v4)** | 2025-01-14 | ACPO (12 pages) |
 | **[MimIR: An Extensible and Type-Safe Intermediate Representation for the DSL Age](http://arxiv.org/abs/2411.07443v2)** | 2024-11-20 | POPL'25 |
-| **[Examem: Low-Overhead Memory Instrumentation for Intelligent Memory Systems](http://arxiv.org/abs/2411.12583v1)** | 2024-11-16 | <details><summary>11 pa...</summary><p>11 pages + references, 13 figures</p></details> |
 
