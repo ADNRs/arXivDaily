@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - August 25, 2025
+title: Latest 20 Papers - August 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Leveraging Large Language Models to Detect Missed Peephole Optimizations](http://arxiv.org/abs/2508.16125v1)** | 2025-08-22 |  |
 | **[Tech-ASan: Two-stage check for Address Sanitizer](http://arxiv.org/abs/2506.05022v3)** | 2025-08-11 |  |
 | **[ReFuzzer: Feedback-Driven Approach to Enhance Validity of LLM-Generated Test Programs](http://arxiv.org/abs/2508.03603v1)** | 2025-08-05 |  |
 | **[Dissecting RISC-V Performance: Practical PMU Profiling and Hardware-Agnostic Roofline Analysis on Emerging Platforms](http://arxiv.org/abs/2507.22451v1)** | 2025-07-30 |  |
@@ -26,5 +27,4 @@ labels: documentation
 | **[Comparing Unidirectional, Bidirectional, and Word2vec Models for Discovering Vulnerabilities in Compiled Lifted Code](http://arxiv.org/abs/2409.17513v2)** | 2025-02-18 | 6 pages, 2 figures |
 | **[Tensor Evolution: A Framework for Fast Evaluation of Tensor Computations using Recurrences](http://arxiv.org/abs/2502.03402v2)** | 2025-02-07 |  |
 | **[A Multi-level Compiler Backend for Accelerated Micro-kernels Targeting RISC-V ISA Extensions](http://arxiv.org/abs/2502.04063v1)** | 2025-02-06 |  |
-| **[ACPO: AI-Enabled Compiler Framework](http://arxiv.org/abs/2312.09982v4)** | 2025-01-14 | ACPO (12 pages) |
 
