@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - September 03, 2025
+title: Latest 20 Papers - September 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,9 +7,9 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Tech-ASan: Two-stage check for Address Sanitizer](http://arxiv.org/abs/2506.05022v4)** | 2025-08-30 |  |
 | **[Evaluating Compiler Optimization Impacts on zkVM Performance](http://arxiv.org/abs/2508.17518v1)** | 2025-08-24 |  |
 | **[Leveraging Large Language Models to Detect Missed Peephole Optimizations](http://arxiv.org/abs/2508.16125v1)** | 2025-08-22 |  |
-| **[Tech-ASan: Two-stage check for Address Sanitizer](http://arxiv.org/abs/2506.05022v3)** | 2025-08-11 |  |
 | **[ReFuzzer: Feedback-Driven Approach to Enhance Validity of LLM-Generated Test Programs](http://arxiv.org/abs/2508.03603v1)** | 2025-08-05 |  |
 | **[Dissecting RISC-V Performance: Practical PMU Profiling and Hardware-Agnostic Roofline Analysis on Emerging Platforms](http://arxiv.org/abs/2507.22451v1)** | 2025-07-30 |  |
 | **[From Profiling to Optimization: Unveiling the Profile Guided Optimization](http://arxiv.org/abs/2507.16649v1)** | 2025-07-22 |  |
