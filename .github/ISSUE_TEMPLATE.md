@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - September 11, 2025
+title: Latest 20 Papers - September 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Noise Injection for__Performance Bottleneck Analysis](http://arxiv.org/abs/2509.08446v1)** | 2025-09-10 |  |
 | **[Tech-ASan: Two-stage check for Address Sanitizer](http://arxiv.org/abs/2506.05022v4)** | 2025-08-30 |  |
 | **[Evaluating Compiler Optimization Impacts on zkVM Performance](http://arxiv.org/abs/2508.17518v1)** | 2025-08-24 |  |
 | **[Leveraging Large Language Models to Detect Missed Peephole Optimizations](http://arxiv.org/abs/2508.16125v1)** | 2025-08-22 |  |
@@ -26,5 +27,4 @@ labels: documentation
 | **[Versatile Cross-platform Compilation Toolchain for Schrödinger-style Quantum Circuit Simulation](http://arxiv.org/abs/2503.19894v1)** | 2025-03-25 | To appear in DAC 25 |
 | **[CleanStack: A New Dual-Stack for Defending Against Stack-Based Memory Corruption Attacks](http://arxiv.org/abs/2503.16950v1)** | 2025-03-21 |  |
 | **[Comparing Unidirectional, Bidirectional, and Word2vec Models for Discovering Vulnerabilities in Compiled Lifted Code](http://arxiv.org/abs/2409.17513v2)** | 2025-02-18 | 6 pages, 2 figures |
-| **[Tensor Evolution: A Framework for Fast Evaluation of Tensor Computations using Recurrences](http://arxiv.org/abs/2502.03402v2)** | 2025-02-07 |  |
 
