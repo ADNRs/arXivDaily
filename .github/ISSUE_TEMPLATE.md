@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - September 22, 2025
+title: Latest 20 Papers - September 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Supporting QIR: Steps for Adopting the Quantum Intermediate Representation](http://arxiv.org/abs/2411.18682v2)** | 2025-09-19 | 9 pages, 2 figures |
 | **[Towards Verified Compilation of Floating-point Optimization in Scientific Computing Programs](http://arxiv.org/abs/2509.09019v1)** | 2025-09-10 |  |
 | **[Noise Injection for__Performance Bottleneck Analysis](http://arxiv.org/abs/2509.08446v1)** | 2025-09-10 |  |
 | **[Tech-ASan: Two-stage check for Address Sanitizer](http://arxiv.org/abs/2506.05022v4)** | 2025-08-30 |  |
@@ -26,5 +27,4 @@ labels: documentation
 | **[Optimizing FDTD Solvers for Electromagnetics: A Compiler-Guided Approach with High-Level Tensor Abstractions](http://arxiv.org/abs/2504.09118v1)** | 2025-04-12 |  |
 | **[Compiler Optimization Testing Based on Optimization-Guided Equivalence Transformations](http://arxiv.org/abs/2504.04321v1)** | 2025-04-06 | <details><summary>Accep...</summary><p>Accepted by FSE-IVR 2025</p></details> |
 | **[Versatile Cross-platform Compilation Toolchain for Schrödinger-style Quantum Circuit Simulation](http://arxiv.org/abs/2503.19894v1)** | 2025-03-25 | To appear in DAC 25 |
-| **[CleanStack: A New Dual-Stack for Defending Against Stack-Based Memory Corruption Attacks](http://arxiv.org/abs/2503.16950v1)** | 2025-03-21 |  |
 
