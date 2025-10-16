@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - October 16, 2025
+title: Latest 20 Papers - October 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Synergy-Guided Compiler Auto-Tuning of Nested LLVM Pass Pipelines](http://arxiv.org/abs/2510.13184v1)** | 2025-10-15 |  |
+| **[GRACE: Globally-Seeded Representation-Aware Cluster-Specific Evolution for Compiler Auto-Tuning](http://arxiv.org/abs/2510.13176v1)** | 2025-10-15 |  |
 | **[PrediPrune: Reducing Verification Overhead in Souper with Machine Learning Driven Pruning](http://arxiv.org/abs/2509.16497v1)** | 2025-09-20 |  |
 | **[Towards Supporting QIR: Steps for Adopting the Quantum Intermediate Representation](http://arxiv.org/abs/2411.18682v2)** | 2025-09-19 | 9 pages, 2 figures |
 | **[Towards Verified Compilation of Floating-point Optimization in Scientific Computing Programs](http://arxiv.org/abs/2509.09019v1)** | 2025-09-10 |  |
@@ -25,6 +27,4 @@ labels: documentation
 | **[TPDE: A Fast Adaptable Compiler Back-End Framework](http://arxiv.org/abs/2505.22610v1)** | 2025-05-28 | 23 pages, 10 figures |
 | **[eqsat: An Equality Saturation Dialect for Non-destructive Rewriting](http://arxiv.org/abs/2505.09363v2)** | 2025-05-15 | <details><summary>Accep...</summary><p>Accepted as workshop paper at the EGRAPHS 2025 workshop</p></details> |
 | **[Towards Source Mapping for Zero-Knowledge Smart Contracts: Design and Preliminary Evaluation](http://arxiv.org/abs/2504.04322v4)** | 2025-05-02 |  |
-| **[Optimizing FDTD Solvers for Electromagnetics: A Compiler-Guided Approach with High-Level Tensor Abstractions](http://arxiv.org/abs/2504.09118v1)** | 2025-04-12 |  |
-| **[Compiler Optimization Testing Based on Optimization-Guided Equivalence Transformations](http://arxiv.org/abs/2504.04321v1)** | 2025-04-06 | <details><summary>Accep...</summary><p>Accepted by FSE-IVR 2025</p></details> |
 
