@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - October 17, 2025
+title: Latest 20 Papers - October 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Hybrid, Knowledge-Guided Evolutionary Framework for Personalized Compiler Auto-Tuning](http://arxiv.org/abs/2510.14292v1)** | 2025-10-16 |  |
 | **[Synergy-Guided Compiler Auto-Tuning of Nested LLVM Pass Pipelines](http://arxiv.org/abs/2510.13184v1)** | 2025-10-15 |  |
 | **[GRACE: Globally-Seeded Representation-Aware Cluster-Specific Evolution for Compiler Auto-Tuning](http://arxiv.org/abs/2510.13176v1)** | 2025-10-15 |  |
 | **[PrediPrune: Reducing Verification Overhead in Souper with Machine Learning Driven Pruning](http://arxiv.org/abs/2509.16497v1)** | 2025-09-20 |  |
@@ -26,5 +27,4 @@ labels: documentation
 | **[Improving compiler support for SIMD offload using Arm Streaming SVE](http://arxiv.org/abs/2506.02233v1)** | 2025-06-02 |  |
 | **[TPDE: A Fast Adaptable Compiler Back-End Framework](http://arxiv.org/abs/2505.22610v1)** | 2025-05-28 | 23 pages, 10 figures |
 | **[eqsat: An Equality Saturation Dialect for Non-destructive Rewriting](http://arxiv.org/abs/2505.09363v2)** | 2025-05-15 | <details><summary>Accep...</summary><p>Accepted as workshop paper at the EGRAPHS 2025 workshop</p></details> |
-| **[Towards Source Mapping for Zero-Knowledge Smart Contracts: Design and Preliminary Evaluation](http://arxiv.org/abs/2504.04322v4)** | 2025-05-02 |  |
 
