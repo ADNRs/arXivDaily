@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - November 11, 2025
+title: Latest 20 Papers - November 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,24 +7,24 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Full Stack Framework for High Performance Quantum-Classical Computing](http://arxiv.org/abs/2510.20128v1)** | 2025-10-23 | <details><summary>9 pag...</summary><p>9 pages, 8 figures, presented at Cray User Group Meeting 2025, May 04-09, 2025, New York, NY</p></details> |
-| **[A Hybrid, Knowledge-Guided Evolutionary Framework for Personalized Compiler Auto-Tuning](http://arxiv.org/abs/2510.14292v1)** | 2025-10-16 |  |
-| **[Synergy-Guided Compiler Auto-Tuning of Nested LLVM Pass Pipelines](http://arxiv.org/abs/2510.13184v1)** | 2025-10-15 |  |
-| **[GRACE: Globally-Seeded Representation-Aware Cluster-Specific Evolution for Compiler Auto-Tuning](http://arxiv.org/abs/2510.13176v1)** | 2025-10-15 |  |
-| **[PrediPrune: Reducing Verification Overhead in Souper with Machine Learning Driven Pruning](http://arxiv.org/abs/2509.16497v1)** | 2025-09-20 |  |
-| **[Towards Supporting QIR: Steps for Adopting the Quantum Intermediate Representation](http://arxiv.org/abs/2411.18682v2)** | 2025-09-19 | 9 pages, 2 figures |
-| **[Towards Verified Compilation of Floating-point Optimization in Scientific Computing Programs](http://arxiv.org/abs/2509.09019v1)** | 2025-09-10 |  |
-| **[Noise Injection for__Performance Bottleneck Analysis](http://arxiv.org/abs/2509.08446v1)** | 2025-09-10 |  |
-| **[Tech-ASan: Two-stage check for Address Sanitizer](http://arxiv.org/abs/2506.05022v4)** | 2025-08-30 |  |
-| **[Evaluating Compiler Optimization Impacts on zkVM Performance](http://arxiv.org/abs/2508.17518v1)** | 2025-08-24 |  |
-| **[Leveraging Large Language Models to Detect Missed Peephole Optimizations](http://arxiv.org/abs/2508.16125v1)** | 2025-08-22 |  |
-| **[ReFuzzer: Feedback-Driven Approach to Enhance Validity of LLM-Generated Test Programs](http://arxiv.org/abs/2508.03603v1)** | 2025-08-05 |  |
-| **[Dissecting RISC-V Performance: Practical PMU Profiling and Hardware-Agnostic Roofline Analysis on Emerging Platforms](http://arxiv.org/abs/2507.22451v1)** | 2025-07-30 |  |
-| **[From Profiling to Optimization: Unveiling the Profile Guided Optimization](http://arxiv.org/abs/2507.16649v1)** | 2025-07-22 |  |
-| **[Fun with flags: How Compilers Break and Fix Constant-Time Code](http://arxiv.org/abs/2507.06112v1)** | 2025-07-08 | 11 pages |
-| **[RVISmith: Fuzzing Compilers for RVV Intrinsics](http://arxiv.org/abs/2507.03773v1)** | 2025-07-04 | <details><summary>To ap...</summary><p>To appear in ACM CCS 2025</p></details> |
-| **[WAMI: Compilation to WebAssembly through MLIR without Losing Abstraction](http://arxiv.org/abs/2506.16048v1)** | 2025-06-19 |  |
-| **[CompilerDream: Learning a Compiler World Model for General Code Optimization](http://arxiv.org/abs/2404.16077v3)** | 2025-06-12 | <details><summary>KDD 2...</summary><p>KDD 2025 camera-ready version with extended appendix. Code is available at https://github.com/thuml/CompilerDream</p></details> |
-| **[Improving compiler support for SIMD offload using Arm Streaming SVE](http://arxiv.org/abs/2506.02233v1)** | 2025-06-02 |  |
-| **[TPDE: A Fast Adaptable Compiler Back-End Framework](http://arxiv.org/abs/2505.22610v1)** | 2025-05-28 | 23 pages, 10 figures |
+| **[SATURN -- Software Deobfuscation Framework Based on LLVM](https://arxiv.org/pdf/1909.01752v2)** | 2019-09-17 | <details><summary>rever...</summary><p>reverse engineering, llvm, code lifting, obfuscation, deobfuscation, static software analysis, binary recompilation, binary rewriting</p></details> |
+| **[Souper: A Synthesizing Superoptimizer](https://arxiv.org/pdf/1711.04422v2)** | 2018-04-09 |  |
+| **[Compiler generated feedback for Large Language Models](https://arxiv.org/pdf/2403.14714v1)** | 2024-03-25 |  |
+| **[Compiling with Continuations and LLVM](https://arxiv.org/pdf/1805.08842v2)** | 2019-01-01 | <details><summary>In Pr...</summary><p>In Proceedings ML/OCAML 2016, arXiv:1812.10891</p></details> |
+| **[MLGO: a Machine Learning Guided Compiler Optimizations Framework](https://arxiv.org/pdf/2101.04808v1)** | 2021-01-14 | <details><summary>First...</summary><p>First two authors are equal contributors</p></details> |
+| **[TPDE: A Fast Adaptable Compiler Back-End Framework](https://arxiv.org/pdf/2505.22610v1)** | 2025-05-29 | 23 pages, 10 figures |
+| **[ACPO: AI-Enabled Compiler Framework](https://arxiv.org/pdf/2312.09982v4)** | 2025-01-15 | ACPO (12 pages) |
+| **[Lost in translation: Exposing hidden compiler optimization opportunities](https://arxiv.org/pdf/1903.11397v3)** | 2020-08-11 | <details><summary>31 pa...</summary><p>31 pages, 7 figures, 2 table. arXiv admin note: text overlap with arXiv:1802.09845</p></details> |
+| **[Meta Large Language Model Compiler: Foundation Models of Compiler Optimization](https://arxiv.org/pdf/2407.02524v1)** | 2024-07-04 |  |
+| **[GRACE: Globally-Seeded Representation-Aware Cluster-Specific Evolution for Compiler Auto-Tuning](https://arxiv.org/pdf/2510.13176v1)** | 2025-10-16 |  |
+| **[Compiler Auto-tuning through Multiple Phase Learning](https://arxiv.org/pdf/2304.14908v1)** | 2023-05-01 |  |
+| **[Instead of Rewriting Foreign Code for Machine Learning, Automatically Synthesize Fast Gradients](https://arxiv.org/pdf/2010.01709v1)** | 2022-08-05 | <details><summary>To be...</summary><p>To be published in NeurIPS 2020</p></details> |
+| **[MLGOPerf: An ML Guided Inliner to Optimize Performance](https://arxiv.org/pdf/2207.08389v2)** | 2023-01-18 | <details><summary>Versi...</summary><p>Version 2: Added the missing Table 6. The short version of this work is accepted at ACM/IEEE CASES 2022</p></details> |
+| **[Evaluating Compiler Optimization Impacts on zkVM Performance](https://arxiv.org/pdf/2508.17518v1)** | 2025-09-04 |  |
+| **[Bi-Directional Transformers vs. word2vec: Discovering Vulnerabilities in Lifted Compiled Code](https://arxiv.org/pdf/2405.20611v3)** | 2024-12-17 | <details><summary>Updat...</summary><p>Updated with improvements</p></details> |
+| **[Minotaur: A SIMD-Oriented Synthesizing Superoptimizer](https://arxiv.org/pdf/2306.00229v3)** | 2024-09-04 | <details><summary>to ap...</summary><p>to appear in OOPSLA'24</p></details> |
+| **[Precondition Inference for Peephole Optimizations in LLVM](https://arxiv.org/pdf/1611.05980v3)** | 2017-03-28 | 15 pages |
+| **[WAMI: Compilation to WebAssembly through MLIR without Losing Abstraction](https://arxiv.org/pdf/2506.16048v1)** | 2025-06-23 |  |
+| **[DLVM: A modern compiler infrastructure for deep learning systems](https://arxiv.org/pdf/1711.03016v5)** | 2018-02-06 |  |
+| **[Unleashing the Hidden Power of Compiler Optimization on Binary Code Difference: An Empirical Study](https://arxiv.org/pdf/2103.12357v2)** | 2021-03-26 |  |
 
