@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - November 20, 2025
+title: Latest 20 Papers - November 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CoroAMU: Unleashing Memory-Driven Coroutines through Latency-Aware Decoupled Operations](https://arxiv.org/abs/2511.14990v1)** | 2025-11-19 |  |
 | **[A Full Stack Framework for High Performance Quantum-Classical Computing](https://arxiv.org/abs/2510.20128v1)** | 2025-10-23 | <details><summary>9 pag...</summary><p>9 pages, 8 figures, presented at Cray User Group Meeting 2025, May 04-09, 2025, New York, NY</p></details> |
 | **[A Hybrid, Knowledge-Guided Evolutionary Framework for Personalized Compiler Auto-Tuning](https://arxiv.org/abs/2510.14292v1)** | 2025-10-16 |  |
 | **[Synergy-Guided Compiler Auto-Tuning of Nested LLVM Pass Pipelines](https://arxiv.org/abs/2510.13184v1)** | 2025-10-15 |  |
@@ -26,5 +27,4 @@ labels: documentation
 | **[WAMI: Compilation to WebAssembly through MLIR without Losing Abstraction](https://arxiv.org/abs/2506.16048v1)** | 2025-06-19 |  |
 | **[CompilerDream: Learning a Compiler World Model for General Code Optimization](https://arxiv.org/abs/2404.16077v3)** | 2025-06-12 | <details><summary>KDD 2...</summary><p>KDD 2025 camera-ready version with extended appendix. Code is available at https://github.com/thuml/CompilerDream</p></details> |
 | **[Improving compiler support for SIMD offload using Arm Streaming SVE](https://arxiv.org/abs/2506.02233v1)** | 2025-06-02 |  |
-| **[TPDE: A Fast Adaptable Compiler Back-End Framework](https://arxiv.org/abs/2505.22610v1)** | 2025-05-28 | 23 pages, 10 figures |
 
