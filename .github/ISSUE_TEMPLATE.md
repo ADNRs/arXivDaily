@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - December 08, 2025
+title: Latest 20 Papers - December 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Compiling Away the Overhead of Race Detection](https://arxiv.org/abs/2512.05555v1)** | 2025-12-05 | 35 pages |
 | **[Targeted Testing of Compiler Optimizations via Grammar-Level Composition Styles](https://arxiv.org/abs/2512.04344v1)** | 2025-12-04 |  |
 | **[Partial Cross-Compilation and Mixed Execution for Accelerating Dynamic Binary Translation](https://arxiv.org/abs/2512.00487v1)** | 2025-11-29 |  |
 | **[Can LLMs Recover Program Semantics? A Systematic Evaluation with Symbolic Execution](https://arxiv.org/abs/2511.19130v1)** | 2025-11-24 |  |
@@ -26,5 +27,4 @@ labels: documentation
 | **[Dissecting RISC-V Performance: Practical PMU Profiling and Hardware-Agnostic Roofline Analysis on Emerging Platforms](https://arxiv.org/abs/2507.22451v1)** | 2025-07-30 |  |
 | **[From Profiling to Optimization: Unveiling the Profile Guided Optimization](https://arxiv.org/abs/2507.16649v1)** | 2025-07-22 |  |
 | **[Fun with flags: How Compilers Break and Fix Constant-Time Code](https://arxiv.org/abs/2507.06112v1)** | 2025-07-08 | 11 pages |
-| **[RVISmith: Fuzzing Compilers for RVV Intrinsics](https://arxiv.org/abs/2507.03773v1)** | 2025-07-04 | <details><summary>To ap...</summary><p>To appear in ACM CCS 2025</p></details> |
 
