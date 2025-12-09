@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - December 09, 2025
+title: Latest 20 Papers - December 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PIP: Making Andersen's Points-to Analysis Sound and Practical for Incomplete C Programs](https://arxiv.org/abs/2512.07299v1)** | 2025-12-08 | <details><summary>11 pa...</summary><p>11 pages, 10 figures. To be published in CGO 2026</p></details> |
+| **[Nice to Meet You: Synthesizing Practical MLIR Abstract Transformers](https://arxiv.org/abs/2512.06442v1)** | 2025-12-06 |  |
+| **[From PyTorch to Calyx: An Open-Source Compiler Toolchain for ML Accelerators](https://arxiv.org/abs/2512.06177v1)** | 2025-12-05 | 5 pages, 3 figures |
 | **[Compiling Away the Overhead of Race Detection](https://arxiv.org/abs/2512.05555v1)** | 2025-12-05 | 35 pages |
 | **[Targeted Testing of Compiler Optimizations via Grammar-Level Composition Styles](https://arxiv.org/abs/2512.04344v1)** | 2025-12-04 |  |
 | **[Partial Cross-Compilation and Mixed Execution for Accelerating Dynamic Binary Translation](https://arxiv.org/abs/2512.00487v1)** | 2025-11-29 |  |
@@ -24,7 +27,4 @@ labels: documentation
 | **[Evaluating Compiler Optimization Impacts on zkVM Performance](https://arxiv.org/abs/2508.17518v1)** | 2025-08-24 |  |
 | **[Leveraging Large Language Models to Detect Missed Peephole Optimizations](https://arxiv.org/abs/2508.16125v1)** | 2025-08-22 |  |
 | **[ReFuzzer: Feedback-Driven Approach to Enhance Validity of LLM-Generated Test Programs](https://arxiv.org/abs/2508.03603v1)** | 2025-08-05 |  |
-| **[Dissecting RISC-V Performance: Practical PMU Profiling and Hardware-Agnostic Roofline Analysis on Emerging Platforms](https://arxiv.org/abs/2507.22451v1)** | 2025-07-30 |  |
-| **[From Profiling to Optimization: Unveiling the Profile Guided Optimization](https://arxiv.org/abs/2507.16649v1)** | 2025-07-22 |  |
-| **[Fun with flags: How Compilers Break and Fix Constant-Time Code](https://arxiv.org/abs/2507.06112v1)** | 2025-07-08 | 11 pages |
 
