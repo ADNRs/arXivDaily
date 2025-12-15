@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - December 15, 2025
+title: Latest 20 Papers - December 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[An LLVM-Based Optimization Pipeline for SPDZ](https://arxiv.org/abs/2512.11112v1)** | 2025-12-11 |  |
 | **[PIP: Making Andersen's Points-to Analysis Sound and Practical for Incomplete C Programs](https://arxiv.org/abs/2512.07299v1)** | 2025-12-08 | <details><summary>11 pa...</summary><p>11 pages, 10 figures. To be published in CGO 2026</p></details> |
 | **[Nice to Meet You: Synthesizing Practical MLIR Abstract Transformers](https://arxiv.org/abs/2512.06442v1)** | 2025-12-06 |  |
 | **[From PyTorch to Calyx: An Open-Source Compiler Toolchain for ML Accelerators](https://arxiv.org/abs/2512.06177v1)** | 2025-12-05 | 5 pages, 3 figures |
@@ -26,5 +27,4 @@ labels: documentation
 | **[Tech-ASan: Two-stage check for Address Sanitizer](https://arxiv.org/abs/2506.05022v4)** | 2025-08-30 |  |
 | **[Evaluating Compiler Optimization Impacts on zkVM Performance](https://arxiv.org/abs/2508.17518v1)** | 2025-08-24 |  |
 | **[Leveraging Large Language Models to Detect Missed Peephole Optimizations](https://arxiv.org/abs/2508.16125v1)** | 2025-08-22 |  |
-| **[ReFuzzer: Feedback-Driven Approach to Enhance Validity of LLM-Generated Test Programs](https://arxiv.org/abs/2508.03603v1)** | 2025-08-05 |  |
 
