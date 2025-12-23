@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - December 23, 2025
+title: Latest 20 Papers - December 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Small Language Models as Compiler Experts: Auto-Parallelization for Heterogeneous Systems](https://arxiv.org/abs/2512.19250v1)** | 2025-12-22 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 ML for Systems Workshop</p></details> |
 | **[A Deep Dive into Function Inlining and its Security Implications for ML-based Binary Analysis](https://arxiv.org/abs/2512.14045v1)** | 2025-12-16 |  |
 | **[An LLVM-Based Optimization Pipeline for SPDZ](https://arxiv.org/abs/2512.11112v1)** | 2025-12-11 |  |
 | **[PIP: Making Andersen's Points-to Analysis Sound and Practical for Incomplete C Programs](https://arxiv.org/abs/2512.07299v1)** | 2025-12-08 | <details><summary>11 pa...</summary><p>11 pages, 10 figures. To be published in CGO 2026</p></details> |
@@ -26,5 +27,4 @@ labels: documentation
 | **[Towards Verified Compilation of Floating-point Optimization in Scientific Computing Programs](https://arxiv.org/abs/2509.09019v1)** | 2025-09-10 |  |
 | **[Noise Injection for__Performance Bottleneck Analysis](https://arxiv.org/abs/2509.08446v1)** | 2025-09-10 |  |
 | **[Tech-ASan: Two-stage check for Address Sanitizer](https://arxiv.org/abs/2506.05022v4)** | 2025-08-30 |  |
-| **[Evaluating Compiler Optimization Impacts on zkVM Performance](https://arxiv.org/abs/2508.17518v1)** | 2025-08-24 |  |
 
