@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - January 01, 2026
+title: Latest 20 Papers - January 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Magnified View into Heterogeneous-ISA Thread Migration Performance without State Transformation](https://arxiv.org/abs/2512.24530v1)** | 2025-12-31 |  |
 | **[Small Language Models as Compiler Experts: Auto-Parallelization for Heterogeneous Systems](https://arxiv.org/abs/2512.19250v1)** | 2025-12-22 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 ML for Systems Workshop</p></details> |
 | **[A Deep Dive into Function Inlining and its Security Implications for ML-based Binary Analysis](https://arxiv.org/abs/2512.14045v1)** | 2025-12-16 |  |
 | **[An LLVM-Based Optimization Pipeline for SPDZ](https://arxiv.org/abs/2512.11112v1)** | 2025-12-11 |  |
@@ -26,5 +27,4 @@ labels: documentation
 | **[Towards Supporting QIR: Steps for Adopting the Quantum Intermediate Representation](https://arxiv.org/abs/2411.18682v2)** | 2025-09-19 | 9 pages, 2 figures |
 | **[Towards Verified Compilation of Floating-point Optimization in Scientific Computing Programs](https://arxiv.org/abs/2509.09019v1)** | 2025-09-10 |  |
 | **[Noise Injection for__Performance Bottleneck Analysis](https://arxiv.org/abs/2509.08446v1)** | 2025-09-10 |  |
-| **[Tech-ASan: Two-stage check for Address Sanitizer](https://arxiv.org/abs/2506.05022v4)** | 2025-08-30 |  |
 
