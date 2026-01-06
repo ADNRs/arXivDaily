@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - January 06, 2026
+title: Latest 20 Papers - January 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MLIR-Smith: A Novel Random Program Generator for Evaluating Compiler Pipelines](https://arxiv.org/abs/2601.02218v1)** | 2026-01-05 |  |
 | **[A Magnified View into Heterogeneous-ISA Thread Migration Performance without State Transformation](https://arxiv.org/abs/2512.24530v2)** | 2026-01-02 | <details><summary>Edit:...</summary><p>Edit: Removed bogus journal footnote</p></details> |
 | **[Small Language Models as Compiler Experts: Auto-Parallelization for Heterogeneous Systems](https://arxiv.org/abs/2512.19250v1)** | 2025-12-22 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 ML for Systems Workshop</p></details> |
 | **[A Deep Dive into Function Inlining and its Security Implications for ML-based Binary Analysis](https://arxiv.org/abs/2512.14045v1)** | 2025-12-16 |  |
@@ -26,5 +27,4 @@ labels: documentation
 | **[PrediPrune: Reducing Verification Overhead in Souper with Machine Learning Driven Pruning](https://arxiv.org/abs/2509.16497v1)** | 2025-09-20 |  |
 | **[Towards Supporting QIR: Steps for Adopting the Quantum Intermediate Representation](https://arxiv.org/abs/2411.18682v2)** | 2025-09-19 | 9 pages, 2 figures |
 | **[Towards Verified Compilation of Floating-point Optimization in Scientific Computing Programs](https://arxiv.org/abs/2509.09019v1)** | 2025-09-10 |  |
-| **[Noise Injection for__Performance Bottleneck Analysis](https://arxiv.org/abs/2509.08446v1)** | 2025-09-10 |  |
 
