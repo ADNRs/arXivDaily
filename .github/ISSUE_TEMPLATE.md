@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - January 23, 2026
+title: Latest 20 Papers - January 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Evaluating Compiler Optimization Impacts on zkVM Performance](https://arxiv.org/abs/2508.17518v2)** | 2026-01-22 |  |
 | **[Static Detection of Core Structures in Tigress Virtualization-Based Obfuscation Using an LLVM Pass](https://arxiv.org/abs/2601.12916v1)** | 2026-01-19 | <details><summary>7 pag...</summary><p>7 pages, 7figures, An extended version of this work has been submitted to the Journal of KIISC</p></details> |
 | **[SplittingSecrets: A Compiler-Based Defense for Preventing Data Memory-Dependent Prefetcher Side-Channels](https://arxiv.org/abs/2601.12270v1)** | 2026-01-18 |  |
 | **[MLIR-Smith: A Novel Random Program Generator for Evaluating Compiler Pipelines](https://arxiv.org/abs/2601.02218v1)** | 2026-01-05 |  |
@@ -26,5 +27,4 @@ labels: documentation
 | **[A Hybrid, Knowledge-Guided Evolutionary Framework for Personalized Compiler Auto-Tuning](https://arxiv.org/abs/2510.14292v1)** | 2025-10-16 |  |
 | **[Synergy-Guided Compiler Auto-Tuning of Nested LLVM Pass Pipelines](https://arxiv.org/abs/2510.13184v1)** | 2025-10-15 |  |
 | **[GRACE: Globally-Seeded Representation-Aware Cluster-Specific Evolution for Compiler Auto-Tuning](https://arxiv.org/abs/2510.13176v1)** | 2025-10-15 |  |
-| **[PrediPrune: Reducing Verification Overhead in Souper with Machine Learning Driven Pruning](https://arxiv.org/abs/2509.16497v1)** | 2025-09-20 |  |
 
