@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - January 30, 2026
+title: Latest 20 Papers - February 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Magellan: Autonomous Discovery of Novel Compiler Optimization Heuristics with AlphaEvolve](https://arxiv.org/abs/2601.21096v1)** | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted to C4ML@CGO'26</p></details> |
 | **[Static Detection of Core Structures in Tigress Virtualization-Based Obfuscation Using an LLVM Pass](https://arxiv.org/abs/2601.12916v2)** | 2026-01-23 | <details><summary>7 pag...</summary><p>7 pages, 7figures, An extended version of this work has been submitted to the Journal of KIISC</p></details> |
 | **[Evaluating Compiler Optimization Impacts on zkVM Performance](https://arxiv.org/abs/2508.17518v2)** | 2026-01-22 |  |
 | **[SplittingSecrets: A Compiler-Based Defense for Preventing Data Memory-Dependent Prefetcher Side-Channels](https://arxiv.org/abs/2601.12270v1)** | 2026-01-18 |  |
@@ -26,5 +27,4 @@ labels: documentation
 | **[A Full Stack Framework for High Performance Quantum-Classical Computing](https://arxiv.org/abs/2510.20128v1)** | 2025-10-23 | <details><summary>9 pag...</summary><p>9 pages, 8 figures, presented at Cray User Group Meeting 2025, May 04-09, 2025, New York, NY</p></details> |
 | **[A Hybrid, Knowledge-Guided Evolutionary Framework for Personalized Compiler Auto-Tuning](https://arxiv.org/abs/2510.14292v1)** | 2025-10-16 |  |
 | **[Synergy-Guided Compiler Auto-Tuning of Nested LLVM Pass Pipelines](https://arxiv.org/abs/2510.13184v1)** | 2025-10-15 |  |
-| **[GRACE: Globally-Seeded Representation-Aware Cluster-Specific Evolution for Compiler Auto-Tuning](https://arxiv.org/abs/2510.13176v1)** | 2025-10-15 |  |
 
