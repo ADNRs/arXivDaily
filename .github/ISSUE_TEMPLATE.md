@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - February 19, 2026
+title: Latest 20 Papers - February 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Protean Compiler: An Agile Framework to Drive Fine-grain Phase Ordering](https://arxiv.org/abs/2602.06142v1)** | 2026-02-05 | <details><summary>Versi...</summary><p>Version 1- Submitted for a possible publication in 2026</p></details> |
+| **[Protean Compiler: An Agile Framework to Drive Fine-grain Phase Ordering](https://arxiv.org/abs/2602.06142v2)** | 2026-02-17 | <details><summary>Versi...</summary><p>Version 2: Submitted for a possible publication in 2026</p></details> |
 | **[Magellan: Autonomous Discovery of Novel Compiler Optimization Heuristics with AlphaEvolve](https://arxiv.org/abs/2601.21096v1)** | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted to C4ML@CGO'26</p></details> |
 | **[Static Detection of Core Structures in Tigress Virtualization-Based Obfuscation Using an LLVM Pass](https://arxiv.org/abs/2601.12916v2)** | 2026-01-23 | <details><summary>7 pag...</summary><p>7 pages, 7figures, An extended version of this work has been submitted to the Journal of KIISC</p></details> |
 | **[ECCO: Evidence-Driven Causal Reasoning for Compiler Optimization](https://arxiv.org/abs/2602.00087v1)** | 2026-01-23 |  |
