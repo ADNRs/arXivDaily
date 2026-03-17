@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - March 17, 2026
+title: Latest 20 Papers - March 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LPO: Discovering Missed Peephole Optimizations with Large Language Models](https://arxiv.org/abs/2508.16125v2)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted at ASPLOS 2026</p></details> |
 | **[Protean Compiler: An Agile Framework to Drive Fine-grain Phase Ordering](https://arxiv.org/abs/2602.06142v2)** | 2026-02-17 | <details><summary>Versi...</summary><p>Version 2: Submitted for a possible publication in 2026</p></details> |
 | **[Magellan: Autonomous Discovery of Novel Compiler Optimization Heuristics with AlphaEvolve](https://arxiv.org/abs/2601.21096v1)** | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted to C4ML@CGO'26</p></details> |
 | **[Static Detection of Core Structures in Tigress Virtualization-Based Obfuscation Using an LLVM Pass](https://arxiv.org/abs/2601.12916v2)** | 2026-01-23 | <details><summary>7 pag...</summary><p>7 pages, 7figures, An extended version of this work has been submitted to the Journal of KIISC</p></details> |
@@ -26,5 +27,4 @@ labels: documentation
 | **[Partial Cross-Compilation and Mixed Execution for Accelerating Dynamic Binary Translation](https://arxiv.org/abs/2512.00487v1)** | 2025-11-29 |  |
 | **[Can LLMs Recover Program Semantics? A Systematic Evaluation with Symbolic Execution](https://arxiv.org/abs/2511.19130v1)** | 2025-11-24 |  |
 | **[CoroAMU: Unleashing Memory-Driven Coroutines through Latency-Aware Decoupled Operations](https://arxiv.org/abs/2511.14990v1)** | 2025-11-19 |  |
-| **[A Full Stack Framework for High Performance Quantum-Classical Computing](https://arxiv.org/abs/2510.20128v1)** | 2025-10-23 | <details><summary>9 pag...</summary><p>9 pages, 8 figures, presented at Cray User Group Meeting 2025, May 04-09, 2025, New York, NY</p></details> |
 
