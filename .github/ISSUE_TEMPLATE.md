@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - March 31, 2026
+title: Latest 20 Papers - April 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
