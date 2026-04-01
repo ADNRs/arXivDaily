@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - April 01, 2026
+title: Latest 20 Papers - April 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Compiling Code LLMs into Lightweight Executables](https://arxiv.org/abs/2603.29813v1)** | 2026-03-31 | <details><summary>This ...</summary><p>This is not the camera-ready version; content is subject to change. Accepted at the 34th ACM International Conference on the Foundations of Software Engineering (FSE 2026), 25 pages</p></details> |
 | **[Leveraging Large Language Models for Generalizing Peephole Optimizations](https://arxiv.org/abs/2603.18477v1)** | 2026-03-19 |  |
 | **[LPO: Discovering Missed Peephole Optimizations with Large Language Models](https://arxiv.org/abs/2508.16125v2)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted at ASPLOS 2026</p></details> |
 | **[Protean Compiler: An Agile Framework to Drive Fine-grain Phase Ordering](https://arxiv.org/abs/2602.06142v2)** | 2026-02-17 | <details><summary>Versi...</summary><p>Version 2: Submitted for a possible publication in 2026</p></details> |
@@ -26,5 +27,4 @@ labels: documentation
 | **[Compiling Away the Overhead of Race Detection](https://arxiv.org/abs/2512.05555v1)** | 2025-12-05 | 35 pages |
 | **[Targeted Testing of Compiler Optimizations via Grammar-Level Composition Styles](https://arxiv.org/abs/2512.04344v1)** | 2025-12-04 |  |
 | **[Partial Cross-Compilation and Mixed Execution for Accelerating Dynamic Binary Translation](https://arxiv.org/abs/2512.00487v1)** | 2025-11-29 |  |
-| **[Can LLMs Recover Program Semantics? A Systematic Evaluation with Symbolic Execution](https://arxiv.org/abs/2511.19130v1)** | 2025-11-24 |  |
 
