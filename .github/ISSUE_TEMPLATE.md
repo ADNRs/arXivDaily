@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - May 12, 2026
+title: Latest 20 Papers - May 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Closer in the Gap: Towards Portable Performance on RISC-V Vector Processors](https://arxiv.org/abs/2605.10860v1)** | 2026-05-11 | <details><summary>To be...</summary><p>To be published in the 32nd European Conference on Parallel and Distributed Processing(Euro-Par 2026)</p></details> |
+| **[LLM Translation of Compiler Intermediate Representation](https://arxiv.org/abs/2605.08247v1)** | 2026-05-07 |  |
 | **[CuLifter: Lifting GPU Binaries to Typed IR](https://arxiv.org/abs/2604.27486v1)** | 2026-04-30 | <details><summary>15 pa...</summary><p>15 pages, 11 figures, 11 tables. Preprint</p></details> |
 | **[Compiling Code LLMs into Lightweight Executables](https://arxiv.org/abs/2603.29813v2)** | 2026-04-24 | <details><summary>Accep...</summary><p>Accepted at the 34th ACM International Conference on the Foundations of Software Engineering (FSE 2026), 25 pages</p></details> |
 | **[Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets](https://arxiv.org/abs/2604.07902v1)** | 2026-04-09 |  |
@@ -25,6 +27,4 @@ labels: documentation
 | **[An LLVM-Based Optimization Pipeline for SPDZ](https://arxiv.org/abs/2512.11112v1)** | 2025-12-11 |  |
 | **[PIP: Making Andersen's Points-to Analysis Sound and Practical for Incomplete C Programs](https://arxiv.org/abs/2512.07299v1)** | 2025-12-08 | <details><summary>11 pa...</summary><p>11 pages, 10 figures. To be published in CGO 2026</p></details> |
 | **[Nice to Meet You: Synthesizing Practical MLIR Abstract Transformers](https://arxiv.org/abs/2512.06442v1)** | 2025-12-06 |  |
-| **[From PyTorch to Calyx: An Open-Source Compiler Toolchain for ML Accelerators](https://arxiv.org/abs/2512.06177v1)** | 2025-12-05 | 5 pages, 3 figures |
-| **[Compiling Away the Overhead of Race Detection](https://arxiv.org/abs/2512.05555v1)** | 2025-12-05 | 35 pages |
 
