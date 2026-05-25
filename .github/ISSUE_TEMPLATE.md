@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - May 25, 2026
+title: Latest 20 Papers - May 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,7 +7,8 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Closer in the Gap: Towards Portable Performance on RISC-V Vector Processors](https://arxiv.org/abs/2605.10860v1)** | 2026-05-11 | <details><summary>To be...</summary><p>To be published in the 32nd European Conference on Parallel and Distributed Processing(Euro-Par 2026)</p></details> |
+| **[Closer in the Gap: Towards Portable Performance on RISC-V Vector Processors](https://arxiv.org/abs/2605.10860v2)** | 2026-05-22 | <details><summary>To be...</summary><p>To be published in the 32nd European Conference on Parallel and Distributed Processing(Euro-Par 2026)</p></details> |
+| **[MileStone: A Multi-Objective Compiler Phase Ordering Framework for Graph-based IR-Level Optimization](https://arxiv.org/abs/2605.23435v1)** | 2026-05-22 |  |
 | **[LLM Translation of Compiler Intermediate Representation](https://arxiv.org/abs/2605.08247v1)** | 2026-05-07 |  |
 | **[CuLifter: Lifting GPU Binaries to Typed IR](https://arxiv.org/abs/2604.27486v1)** | 2026-04-30 | <details><summary>15 pa...</summary><p>15 pages, 11 figures, 11 tables. Preprint</p></details> |
 | **[Compiling Code LLMs into Lightweight Executables](https://arxiv.org/abs/2603.29813v2)** | 2026-04-24 | <details><summary>Accep...</summary><p>Accepted at the 34th ACM International Conference on the Foundations of Software Engineering (FSE 2026), 25 pages</p></details> |
@@ -26,5 +27,4 @@ labels: documentation
 | **[A Deep Dive into Function Inlining and its Security Implications for ML-based Binary Analysis](https://arxiv.org/abs/2512.14045v1)** | 2025-12-16 |  |
 | **[An LLVM-Based Optimization Pipeline for SPDZ](https://arxiv.org/abs/2512.11112v1)** | 2025-12-11 |  |
 | **[PIP: Making Andersen's Points-to Analysis Sound and Practical for Incomplete C Programs](https://arxiv.org/abs/2512.07299v1)** | 2025-12-08 | <details><summary>11 pa...</summary><p>11 pages, 10 figures. To be published in CGO 2026</p></details> |
-| **[Nice to Meet You: Synthesizing Practical MLIR Abstract Transformers](https://arxiv.org/abs/2512.06442v1)** | 2025-12-06 |  |
 
