@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - May 29, 2026
+title: Latest 20 Papers - June 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CompilerDream: Learning a Compiler World Model for General Code Optimization](https://arxiv.org/abs/2404.16077v4)** | 2026-05-28 | <details><summary>KDD 2...</summary><p>KDD 2025 camera-ready version with extended appendix. Code is available at https://github.com/thuml/CompilerDream. This update additionally fixes an issue in Table 6 where the dataset names in three rows were ordered incorrectly</p></details> |
 | **[Closer in the Gap: Towards Portable Performance on RISC-V Vector Processors](https://arxiv.org/abs/2605.10860v2)** | 2026-05-22 | <details><summary>To be...</summary><p>To be published in the 32nd European Conference on Parallel and Distributed Processing(Euro-Par 2026)</p></details> |
 | **[MileStone: A Multi-Objective Compiler Phase Ordering Framework for Graph-based IR-Level Optimization](https://arxiv.org/abs/2605.23435v1)** | 2026-05-22 |  |
 | **[LLM Translation of Compiler Intermediate Representation](https://arxiv.org/abs/2605.08247v1)** | 2026-05-07 |  |
@@ -26,5 +27,4 @@ labels: documentation
 | **[Small Language Models as Compiler Experts: Auto-Parallelization for Heterogeneous Systems](https://arxiv.org/abs/2512.19250v1)** | 2025-12-22 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 ML for Systems Workshop</p></details> |
 | **[A Deep Dive into Function Inlining and its Security Implications for ML-based Binary Analysis](https://arxiv.org/abs/2512.14045v1)** | 2025-12-16 |  |
 | **[An LLVM-Based Optimization Pipeline for SPDZ](https://arxiv.org/abs/2512.11112v1)** | 2025-12-11 |  |
-| **[PIP: Making Andersen's Points-to Analysis Sound and Practical for Incomplete C Programs](https://arxiv.org/abs/2512.07299v1)** | 2025-12-08 | <details><summary>11 pa...</summary><p>11 pages, 10 figures. To be published in CGO 2026</p></details> |
 
