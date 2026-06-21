@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - June 19, 2026
+title: Latest 20 Papers - June 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AutoPass: Evidence-Guided LLM Agents for Compiler Performance Tuning](https://arxiv.org/abs/2606.20373v1)** | 2026-06-18 |  |
 | **[Protean Compiler: An Agile Framework to Drive Fine-grain Phase Ordering](https://arxiv.org/abs/2602.06142v3)** | 2026-06-11 | <details><summary>Versi...</summary><p>Version 3: Preprint version of the accepted work at ACM TACO 2026</p></details> |
 | **[From Fork-Join to Asynchronous Tasks: Parallelizing Tiled Cholesky Decomposition with OpenMP and HPX](https://arxiv.org/abs/2606.11937v1)** | 2026-06-10 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, accepted paper at AMTE held in conjunction with PPAM 2026</p></details> |
 | **[CompilerDream: Learning a Compiler World Model for General Code Optimization](https://arxiv.org/abs/2404.16077v4)** | 2026-05-28 | <details><summary>KDD 2...</summary><p>KDD 2025 camera-ready version with extended appendix. Code is available at https://github.com/thuml/CompilerDream. This update additionally fixes an issue in Table 6 where the dataset names in three rows were ordered incorrectly</p></details> |
@@ -26,5 +27,4 @@ labels: documentation
 | **[MLIR-Smith: A Novel Random Program Generator for Evaluating Compiler Pipelines](https://arxiv.org/abs/2601.02218v1)** | 2026-01-05 |  |
 | **[A Magnified View into Heterogeneous-ISA Thread Migration Performance without State Transformation](https://arxiv.org/abs/2512.24530v2)** | 2026-01-02 | <details><summary>Edit:...</summary><p>Edit: Removed bogus journal footnote</p></details> |
 | **[Small Language Models as Compiler Experts: Auto-Parallelization for Heterogeneous Systems](https://arxiv.org/abs/2512.19250v1)** | 2025-12-22 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 ML for Systems Workshop</p></details> |
-| **[A Deep Dive into Function Inlining and its Security Implications for ML-based Binary Analysis](https://arxiv.org/abs/2512.14045v1)** | 2025-12-16 |  |
 
