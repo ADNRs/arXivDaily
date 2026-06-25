@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - June 25, 2026
+title: Latest 20 Papers - June 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Compiling Code LLMs into Lightweight Executables](https://arxiv.org/abs/2603.29813v3)** | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted at the 34th ACM International Conference on the Foundations of Software Engineering (FSE 2026), 25 pages</p></details> |
 | **[AutoPass: Evidence-Guided LLM Agents for Compiler Performance Tuning](https://arxiv.org/abs/2606.20373v1)** | 2026-06-18 |  |
 | **[Protean Compiler: An Agile Framework to Drive Fine-grain Phase Ordering](https://arxiv.org/abs/2602.06142v3)** | 2026-06-11 | <details><summary>Versi...</summary><p>Version 3: Preprint version of the accepted work at ACM TACO 2026</p></details> |
 | **[From Fork-Join to Asynchronous Tasks: Parallelizing Tiled Cholesky Decomposition with OpenMP and HPX](https://arxiv.org/abs/2606.11937v1)** | 2026-06-10 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, accepted paper at AMTE held in conjunction with PPAM 2026</p></details> |
@@ -15,7 +16,6 @@ labels: documentation
 | **[MileStone: A Multi-Objective Compiler Phase Ordering Framework for Graph-based IR-Level Optimization](https://arxiv.org/abs/2605.23435v1)** | 2026-05-22 |  |
 | **[LLM Translation of Compiler Intermediate Representation](https://arxiv.org/abs/2605.08247v1)** | 2026-05-07 |  |
 | **[CuLifter: Lifting GPU Binaries to Typed IR](https://arxiv.org/abs/2604.27486v1)** | 2026-04-30 | <details><summary>15 pa...</summary><p>15 pages, 11 figures, 11 tables. Preprint</p></details> |
-| **[Compiling Code LLMs into Lightweight Executables](https://arxiv.org/abs/2603.29813v2)** | 2026-04-24 | <details><summary>Accep...</summary><p>Accepted at the 34th ACM International Conference on the Foundations of Software Engineering (FSE 2026), 25 pages</p></details> |
 | **[Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets](https://arxiv.org/abs/2604.07902v1)** | 2026-04-09 |  |
 | **[Leveraging Large Language Models for Generalizing Peephole Optimizations](https://arxiv.org/abs/2603.18477v1)** | 2026-03-19 |  |
 | **[LPO: Discovering Missed Peephole Optimizations with Large Language Models](https://arxiv.org/abs/2508.16125v2)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted at ASPLOS 2026</p></details> |
