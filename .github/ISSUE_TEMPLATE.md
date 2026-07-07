@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - July 07, 2026
+title: Latest 20 Papers - July 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,7 +7,8 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Understanding Agent-Based Patching of Compiler Missed Optimizations](https://arxiv.org/abs/2607.02370v1)** | 2026-07-02 | 11 pages, 10 figures |
+| **[Understanding Agent-Based Patching of Compiler Missed Optimizations](https://arxiv.org/abs/2607.02370v2)** | 2026-07-03 | 11 pages, 10 figures |
+| **[Can Coding Agents Implement Missed Compiler Optimizations? Evaluating LLM Agents on LLVM Peephole Optimizations](https://arxiv.org/abs/2607.02684v1)** | 2026-07-02 |  |
 | **[Archer: Towards Agentic Review for Compiler Optimizations](https://arxiv.org/abs/2607.01808v1)** | 2026-07-02 |  |
 | **[A Multi-Dimensional, Per-Pass Empirical Study of the LLVM Optimization Pipeline](https://arxiv.org/abs/2606.31238v1)** | 2026-06-30 | 13 pages, 11 figures |
 | **[Compiling Code LLMs into Lightweight Executables](https://arxiv.org/abs/2603.29813v3)** | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted at the 34th ACM International Conference on the Foundations of Software Engineering (FSE 2026), 25 pages</p></details> |
@@ -26,5 +27,4 @@ labels: documentation
 | **[Static Detection of Core Structures in Tigress Virtualization-Based Obfuscation Using an LLVM Pass](https://arxiv.org/abs/2601.12916v2)** | 2026-01-23 | <details><summary>7 pag...</summary><p>7 pages, 7figures, An extended version of this work has been submitted to the Journal of KIISC</p></details> |
 | **[ECCO: Evidence-Driven Causal Reasoning for Compiler Optimization](https://arxiv.org/abs/2602.00087v1)** | 2026-01-23 |  |
 | **[Evaluating Compiler Optimization Impacts on zkVM Performance](https://arxiv.org/abs/2508.17518v2)** | 2026-01-22 |  |
-| **[SplittingSecrets: A Compiler-Based Defense for Preventing Data Memory-Dependent Prefetcher Side-Channels](https://arxiv.org/abs/2601.12270v1)** | 2026-01-18 |  |
 
