@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - July 21, 2026
+title: Latest 20 Papers - July 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Portable models as a replacement for industrial heuristics in compiler optimizations](https://arxiv.org/abs/2607.17389v1)** | 2026-07-19 | <details><summary>9 pag...</summary><p>9 pages, 13 figures, 5 tables, 28 references</p></details> |
 | **[Understanding Agent-Based Patching of Compiler Missed Optimizations](https://arxiv.org/abs/2607.02370v2)** | 2026-07-03 | 11 pages, 10 figures |
 | **[Can Coding Agents Implement Missed Compiler Optimizations? Evaluating LLM Agents on LLVM Peephole Optimizations](https://arxiv.org/abs/2607.02684v1)** | 2026-07-02 |  |
 | **[Archer: Towards Agentic Review for Compiler Optimizations](https://arxiv.org/abs/2607.01808v1)** | 2026-07-02 |  |
@@ -26,5 +27,4 @@ labels: documentation
 | **[Magellan: Autonomous Discovery of Novel Compiler Optimization Heuristics with AlphaEvolve](https://arxiv.org/abs/2601.21096v1)** | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted to C4ML@CGO'26</p></details> |
 | **[Static Detection of Core Structures in Tigress Virtualization-Based Obfuscation Using an LLVM Pass](https://arxiv.org/abs/2601.12916v2)** | 2026-01-23 | <details><summary>7 pag...</summary><p>7 pages, 7figures, An extended version of this work has been submitted to the Journal of KIISC</p></details> |
 | **[ECCO: Evidence-Driven Causal Reasoning for Compiler Optimization](https://arxiv.org/abs/2602.00087v1)** | 2026-01-23 |  |
-| **[Evaluating Compiler Optimization Impacts on zkVM Performance](https://arxiv.org/abs/2508.17518v2)** | 2026-01-22 |  |
 
