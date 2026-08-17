@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - August 17, 2026
+title: Latest 20 Papers - August 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GPU Offload in Rust: Portable, Safe, and Fast](https://arxiv.org/abs/2608.13759v1)** | 2026-08-13 | 13 pages, 5 figures |
 | **[GRACE: Cluster-Specific Sequence Reuse for Compiler Auto-Tuning](https://arxiv.org/abs/2510.13176v2)** | 2026-07-31 |  |
 | **[Build-Authorized Evidence for Opaque Calls: A Fail-Closed Rewrite-Authority Boundary](https://arxiv.org/abs/2607.18949v1)** | 2026-07-21 | <details><summary>38 pa...</summary><p>38 pages, 1 figure, 16 tables; includes a public appendix</p></details> |
 | **[Portable models as a replacement for industrial heuristics in compiler optimizations](https://arxiv.org/abs/2607.17389v1)** | 2026-07-19 | <details><summary>9 pag...</summary><p>9 pages, 13 figures, 5 tables, 28 references</p></details> |
@@ -26,5 +27,4 @@ labels: documentation
 | **[Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets](https://arxiv.org/abs/2604.07902v1)** | 2026-04-09 |  |
 | **[Leveraging Large Language Models for Generalizing Peephole Optimizations](https://arxiv.org/abs/2603.18477v1)** | 2026-03-19 |  |
 | **[LPO: Discovering Missed Peephole Optimizations with Large Language Models](https://arxiv.org/abs/2508.16125v2)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted at ASPLOS 2026</p></details> |
-| **[Magellan: Autonomous Discovery of Novel Compiler Optimization Heuristics with AlphaEvolve](https://arxiv.org/abs/2601.21096v1)** | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted to C4ML@CGO'26</p></details> |
 
