@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - September 07, 2026
+title: Latest 20 Papers - September 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,7 +7,8 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Decoupling Disaggregated Memory Optimizations from Indexing: A Compiler-Runtime Approach](https://arxiv.org/abs/2609.02669v1)** | 2026-09-02 |  |
+| **[CuLifter: Lifting GPU Binaries to Typed IR](https://arxiv.org/abs/2604.27486v2)** | 2026-09-04 | <details><summary>16 pa...</summary><p>16 pages, 11 figures, 11 tables. Accepted at MICRO 2026</p></details> |
+| **[Decoupling Disaggregated Memory Optimizations from Indexing: A Compiler-Runtime Approach](https://arxiv.org/abs/2609.02669v2)** | 2026-09-04 |  |
 | **[Type-Directed, Secure-by-Construction Enclave Partitioning for LLVM](https://arxiv.org/abs/2609.02048v1)** | 2026-09-02 |  |
 | **[GPU Offload in Rust: Portable, Safe, and Fast](https://arxiv.org/abs/2608.13759v1)** | 2026-08-13 | 13 pages, 5 figures |
 | **[GRACE: Cluster-Specific Sequence Reuse for Compiler Auto-Tuning](https://arxiv.org/abs/2510.13176v2)** | 2026-07-31 |  |
@@ -25,6 +26,5 @@ labels: documentation
 | **[Closer in the Gap: Towards Portable Performance on RISC-V Vector Processors](https://arxiv.org/abs/2605.10860v2)** | 2026-05-22 | <details><summary>To be...</summary><p>To be published in the 32nd European Conference on Parallel and Distributed Processing(Euro-Par 2026)</p></details> |
 | **[MileStone: A Multi-Objective Compiler Phase Ordering Framework for Graph-based IR-Level Optimization](https://arxiv.org/abs/2605.23435v1)** | 2026-05-22 |  |
 | **[LLM Translation of Compiler Intermediate Representation](https://arxiv.org/abs/2605.08247v1)** | 2026-05-07 |  |
-| **[CuLifter: Lifting GPU Binaries to Typed IR](https://arxiv.org/abs/2604.27486v1)** | 2026-04-30 | <details><summary>15 pa...</summary><p>15 pages, 11 figures, 11 tables. Preprint</p></details> |
 | **[Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets](https://arxiv.org/abs/2604.07902v1)** | 2026-04-09 |  |
 
