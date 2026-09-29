@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - September 29, 2026
+title: Latest 20 Papers - September 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficient Extraction for Effectful E-Graphs](https://arxiv.org/abs/2609.31887v1)** | 2026-09-25 | <details><summary>Accep...</summary><p>Accepted for publication at OOPSLA 2026</p></details> |
 | **[Verified Learning for Compiler Optimization: An LLM-Guided Architecture with Formal Control](https://arxiv.org/abs/2609.27214v1)** | 2026-09-23 |  |
 | **[DejaVu: Unifying Memory Allocations to Eliminate Redundant Copies on Unified-Memory SoCs](https://arxiv.org/abs/2609.05635v1)** | 2026-09-04 | 16 pages, 9 figures |
 | **[CuLifter: Lifting GPU Binaries to Typed IR](https://arxiv.org/abs/2604.27486v2)** | 2026-09-04 | <details><summary>16 pa...</summary><p>16 pages, 11 figures, 11 tables. Accepted at MICRO 2026</p></details> |
@@ -26,5 +27,4 @@ labels: documentation
 | **[From Fork-Join to Asynchronous Tasks: Parallelizing Tiled Cholesky Decomposition with OpenMP and HPX](https://arxiv.org/abs/2606.11937v1)** | 2026-06-10 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, accepted paper at AMTE held in conjunction with PPAM 2026</p></details> |
 | **[CompilerDream: Learning a Compiler World Model for General Code Optimization](https://arxiv.org/abs/2404.16077v4)** | 2026-05-28 | <details><summary>KDD 2...</summary><p>KDD 2025 camera-ready version with extended appendix. Code is available at https://github.com/thuml/CompilerDream. This update additionally fixes an issue in Table 6 where the dataset names in three rows were ordered incorrectly</p></details> |
 | **[Closer in the Gap: Towards Portable Performance on RISC-V Vector Processors](https://arxiv.org/abs/2605.10860v2)** | 2026-05-22 | <details><summary>To be...</summary><p>To be published in the 32nd European Conference on Parallel and Distributed Processing(Euro-Par 2026)</p></details> |
-| **[MileStone: A Multi-Objective Compiler Phase Ordering Framework for Graph-based IR-Level Optimization](https://arxiv.org/abs/2605.23435v1)** | 2026-05-22 |  |
 
