@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - September 30, 2026
+title: Latest 20 Papers - October 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Efficient Extraction for Effectful E-Graphs](https://arxiv.org/abs/2609.31887v1)** | 2026-09-25 | <details><summary>Accep...</summary><p>Accepted for publication at OOPSLA 2026</p></details> |
+| **[Efficient Extraction for Effectful E-Graphs](https://arxiv.org/abs/2609.31887v2)** | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted for publication at OOPSLA 2026</p></details> |
 | **[Verified Learning for Compiler Optimization: An LLM-Guided Architecture with Formal Control](https://arxiv.org/abs/2609.27214v1)** | 2026-09-23 |  |
 | **[DejaVu: Unifying Memory Allocations to Eliminate Redundant Copies on Unified-Memory SoCs](https://arxiv.org/abs/2609.05635v1)** | 2026-09-04 | 16 pages, 9 figures |
 | **[CuLifter: Lifting GPU Binaries to Typed IR](https://arxiv.org/abs/2604.27486v2)** | 2026-09-04 | <details><summary>16 pa...</summary><p>16 pages, 11 figures, 11 tables. Accepted at MICRO 2026</p></details> |
