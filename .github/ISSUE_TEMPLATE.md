@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - October 19, 2026
+title: Latest 20 Papers - October 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Where Does the Performance Go? Understanding and Recovering Performance Regressions in C-to-Rust Translation](https://arxiv.org/abs/2610.23044v1)** | 2026-10-16 |  |
 | **[CISB-Bench: An Auditable Source--IR Dataset of Compiler-Introduced Security Bugs](https://arxiv.org/abs/2610.07635v1)** | 2026-10-06 |  |
 | **[Acceleration of Data Analytics on Heterogeneous Supercloud Systems](https://arxiv.org/abs/2610.06291v1)** | 2026-10-05 |  |
 | **[Bao: Automatic Region Placement and Memory Allocation for Intermittent Computing](https://arxiv.org/abs/2610.02624v1)** | 2026-10-02 | <details><summary>Accep...</summary><p>Accepted to ASPLOS '27. 28 pages, 12 figures, 10 tables</p></details> |
@@ -26,5 +27,4 @@ labels: documentation
 | **[A Multi-Dimensional, Per-Pass Empirical Study of the LLVM Optimization Pipeline](https://arxiv.org/abs/2606.31238v1)** | 2026-06-30 | 13 pages, 11 figures |
 | **[Compiling Code LLMs into Lightweight Executables](https://arxiv.org/abs/2603.29813v3)** | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted at the 34th ACM International Conference on the Foundations of Software Engineering (FSE 2026), 25 pages</p></details> |
 | **[AutoPass: Evidence-Guided LLM Agents for Compiler Performance Tuning](https://arxiv.org/abs/2606.20373v1)** | 2026-06-18 |  |
-| **[Protean Compiler: An Agile Framework to Drive Fine-grain Phase Ordering](https://arxiv.org/abs/2602.06142v3)** | 2026-06-11 | <details><summary>Versi...</summary><p>Version 3: Preprint version of the accepted work at ACM TACO 2026</p></details> |
 
