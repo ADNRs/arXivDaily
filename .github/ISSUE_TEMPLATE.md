@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - October 23, 2026
+title: Latest 20 Papers - October 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Multi-Dimensional, Per-Pass Empirical Study of the LLVM Optimization Pipeline](https://arxiv.org/abs/2606.31238v2)** | 2026-10-22 | 12 pages, 8 figures |
+| **[ATLAS: A Multi-Agent Framework for Lifting Binary to Canonical Compiler IR](https://arxiv.org/abs/2610.30877v1)** | 2026-10-22 |  |
+| **[Amplifying Latency and Cost of LLM Inference via Rowhammer Attack](https://arxiv.org/abs/2610.30798v1)** | 2026-10-22 |  |
 | **[Instrumentation Optimization for Practical Dynamic Race Detection](https://arxiv.org/abs/2512.05555v2)** | 2026-10-19 | <details><summary>v2: c...</summary><p>v2: camera-ready version, to appear in the 2026 ACM SIGOPS Annual Technical Conference (SIGOPS ATC 2026). New title; the supplementary material is included as appendices. 24 pages</p></details> |
 | **[Where Does the Performance Go? Understanding and Recovering Performance Regressions in C-to-Rust Translation](https://arxiv.org/abs/2610.23044v1)** | 2026-10-16 |  |
 | **[CISB-Bench: An Auditable Source--IR Dataset of Compiler-Introduced Security Bugs](https://arxiv.org/abs/2610.07635v1)** | 2026-10-06 |  |
@@ -24,7 +27,4 @@ labels: documentation
 | **[Portable models as a replacement for industrial heuristics in compiler optimizations](https://arxiv.org/abs/2607.17389v1)** | 2026-07-19 | <details><summary>9 pag...</summary><p>9 pages, 13 figures, 5 tables, 28 references</p></details> |
 | **[Understanding Agent-Based Patching of Compiler Missed Optimizations](https://arxiv.org/abs/2607.02370v2)** | 2026-07-03 | 11 pages, 10 figures |
 | **[Can Coding Agents Implement Missed Compiler Optimizations? Evaluating LLM Agents on LLVM Peephole Optimizations](https://arxiv.org/abs/2607.02684v1)** | 2026-07-02 |  |
-| **[Archer: Towards Agentic Review for Compiler Optimizations](https://arxiv.org/abs/2607.01808v1)** | 2026-07-02 |  |
-| **[A Multi-Dimensional, Per-Pass Empirical Study of the LLVM Optimization Pipeline](https://arxiv.org/abs/2606.31238v1)** | 2026-06-30 | 13 pages, 11 figures |
-| **[Compiling Code LLMs into Lightweight Executables](https://arxiv.org/abs/2603.29813v3)** | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted at the 34th ACM International Conference on the Foundations of Software Engineering (FSE 2026), 25 pages</p></details> |
 
