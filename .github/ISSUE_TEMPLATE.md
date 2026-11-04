@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - November 04, 2026
+title: Latest 20 Papers - November 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Silent Degradation during Auto-Vectorization of bf16/fp16 on RISC-V Under LLVM](https://arxiv.org/abs/2611.03917v1)** | 2026-11-02 |  |
 | **[A Multi-Dimensional, Per-Pass Empirical Study of the LLVM Optimization Pipeline](https://arxiv.org/abs/2606.31238v2)** | 2026-10-22 | 12 pages, 8 figures |
 | **[ATLAS: A Multi-Agent Framework for Lifting Binary to Canonical Compiler IR](https://arxiv.org/abs/2610.30877v1)** | 2026-10-22 |  |
 | **[Amplifying Latency and Cost of LLM Inference via Rowhammer Attack](https://arxiv.org/abs/2610.30798v1)** | 2026-10-22 |  |
@@ -26,5 +27,4 @@ labels: documentation
 | **[Build-Authorized Evidence for Opaque Calls: A Fail-Closed Rewrite-Authority Boundary](https://arxiv.org/abs/2607.18949v1)** | 2026-07-21 | <details><summary>38 pa...</summary><p>38 pages, 1 figure, 16 tables; includes a public appendix</p></details> |
 | **[Portable models as a replacement for industrial heuristics in compiler optimizations](https://arxiv.org/abs/2607.17389v1)** | 2026-07-19 | <details><summary>9 pag...</summary><p>9 pages, 13 figures, 5 tables, 28 references</p></details> |
 | **[Understanding Agent-Based Patching of Compiler Missed Optimizations](https://arxiv.org/abs/2607.02370v2)** | 2026-07-03 | 11 pages, 10 figures |
-| **[Can Coding Agents Implement Missed Compiler Optimizations? Evaluating LLM Agents on LLVM Peephole Optimizations](https://arxiv.org/abs/2607.02684v1)** | 2026-07-02 |  |
 
