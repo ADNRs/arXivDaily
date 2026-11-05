@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - November 05, 2026
+title: Latest 20 Papers - November 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/ADNRs/arXivDaily) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## Default
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Silent Degradation during Auto-Vectorization of bf16/fp16 on RISC-V Under LLVM](https://arxiv.org/abs/2611.03917v1)** | 2026-11-02 |  |
+| **[Silent Degradation during Auto-Vectorization of bf16/fp16 on RISC-V Under LLVM](https://arxiv.org/abs/2611.03917v2)** | 2026-11-04 |  |
 | **[A Multi-Dimensional, Per-Pass Empirical Study of the LLVM Optimization Pipeline](https://arxiv.org/abs/2606.31238v2)** | 2026-10-22 | 12 pages, 8 figures |
 | **[ATLAS: A Multi-Agent Framework for Lifting Binary to Canonical Compiler IR](https://arxiv.org/abs/2610.30877v1)** | 2026-10-22 |  |
 | **[Amplifying Latency and Cost of LLM Inference via Rowhammer Attack](https://arxiv.org/abs/2610.30798v1)** | 2026-10-22 |  |
